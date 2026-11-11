@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="hi, i'm sophia!" width="100%" />
+  <img src="banner-painting.png" alt="banner" width="100%" />
 </p>
 
 # hi, i'm sophia 🪷
