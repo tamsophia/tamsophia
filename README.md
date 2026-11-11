@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="banner.svg" alt="hi, i'm sophia!" width="100%" />
+</p>
+
 # hi, i'm sophia 🪷
 
-i study marketing, sales, and information system @ University of Washington.
+i study marketing, sales, and information systems @ University of Washington.
 
 i love where beauty, fashion & tech meet: (re)commerce, ai shopping, and the go-to-market side of building products!
 
@@ -8,4 +12,4 @@ i love where beauty, fashion & tech meet: (re)commerce, ai shopping, and the go-
 
 ⋆ ask me about: fragrance, startups, and launching things
 
-[sophiatam.com](https://www.sophiatam.com) | [linkedin](https://linkedin.com/in/sophiatamst/) | [email](mailto:you@example.com)
+[sophiatam.com](https://www.sophiatam.com) | [linkedin](https://linkedin.com/in/sophiatamst/) | [email](mailto:YOUR-EMAIL-HERE)
