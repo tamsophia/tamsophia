@@ -1,1 +1,11 @@
-# sophiatam
+# hi, i'm sophia 🪷
+
+i study marketing, sales, and information system @ University of Washington.
+
+i love where beauty, fashion & tech meet: (re)commerce, ai shopping, and the go-to-market side of building products!
+
+⋆ exploring: ai scent finders, live commerce analysis
+
+⋆ ask me about: fragrance, startups, and launching things
+
+[sophiatam.com](https://www.sophiatam.com) | [linkedin](https://linkedin.com/in/sophiatamst/) | [email](mailto:you@example.com)
