@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner-painting.png" alt="banner" width="100%" />
-</p>
-
 # hi, i'm sophia 🪷
 
 i study marketing, sales, and information systems @ University of Washington.
